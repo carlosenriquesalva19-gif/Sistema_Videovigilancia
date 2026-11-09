@@ -1,0 +1,28 @@
+# Dependencias
+vigila/vendor/
+/vendor/
+node_modules/
+
+# Entorno y claves
+vigila/.env
+.env
+.env.backup
+.env.production
+vigila/storage/*.key
+
+# Caches y sesiones
+vigila/storage/framework/cache/data/*
+vigila/storage/framework/sessions/*
+vigila/storage/framework/views/*
+vigila/storage/logs/*
+vigila/bootstrap/cache/*.php
+
+# Base de datos local
+vigila/database/*.sqlite
+vigila/public/storage
+
+# Archivos de sistema y editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
