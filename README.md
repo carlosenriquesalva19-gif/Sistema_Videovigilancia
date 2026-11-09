@@ -7,13 +7,12 @@
 
 Repositorio oficial del caso práctico de arquitectura e infraestructura en la nube: **“Optimización de la Infraestructura en la Nube para Servicios de Videovigilancia: Migración Eficiente y Segura a AWS”**.
 
-Este proyecto contiene tanto la **propuesta formal de arquitectura cloud** como el **prototipo funcional de la aplicación web** en Laravel.
+Este proyecto contiene el **prototipo funcional de la aplicación web** en Laravel desarrollado para el caso de estudio.
 
 ---
 
 ## 📁 Estructura del Repositorio
 
-* **[`Propuesta_VIGILA_AWS.md`](Propuesta_VIGILA_AWS.md):** Documento técnico exhaustivo que detalla la arquitectura desacoplada, estrategia de cómputo (EC2 Auto Scaling, Spot y Lambda), almacenamiento elástico (S3 Lifecycle y Glacier), base de datos de metadatos (Amazon Aurora Multi-AZ), seguridad (IAM, KMS, VPC) y automatización con AWS Systems Manager.
 * **[`vigila/`](vigila/):** Aplicación web funcional desarrollada en **Laravel 13** con panel de administración, catálogo de grabaciones, streaming en vivo y módulo de estimación FinOps.
 
 ---
