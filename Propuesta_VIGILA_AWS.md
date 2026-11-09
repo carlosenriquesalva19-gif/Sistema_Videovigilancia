@@ -2,10 +2,7 @@
 ## Migración eficiente y segura de VIGILA a AWS
 
 **Asignatura:** Tecnología Cloud con AWS  
-**Estudiante:** ____________________  
-**Docente:** ____________________  
-**Institución:** ____________________  
-**Fecha:** 6 de octubre de 2026
+
 
 ## 1. Resumen ejecutivo
 
